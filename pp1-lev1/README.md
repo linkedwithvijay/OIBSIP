@@ -11,7 +11,7 @@ A Flask-based Exploratory Data Analysis (EDA) web application.
 
 ## 🛠️ Setup
 ```bash
-git clone https://github.com/your-username/OIBSIP.git
+git clone https://github.com/linkedwithvijay/OIBSIP.git
 cd OIBSIP/pp1-lev1
 pip install -r requirements.txt
 python app.py
